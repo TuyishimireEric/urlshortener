@@ -30,16 +30,11 @@
 SThis is a URL shortening application built with Create React App. The application allows users to create, view, update, and delete shortened URLs, providing an easy way to manage and share URLs in a concise format.
 <img width="1440" alt="Screen Shot 2024-11-15 at 10 10 36" src="https://github.com/user-attachments/assets/a0c4749a-fbc5-4b2a-bb32-036d65c2b84a">
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://tuyishimireeric.github.io/urlshortner/)
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 - Clone the repository or download the source code.
-- Open the index.html file in a web browser.
+- Start the development server `npm run start`
 
 ## 👥 Author <a name="authors"></a>
 
